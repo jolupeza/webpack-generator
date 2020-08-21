@@ -1,0 +1,2 @@
+# webpack-generator
+Webpack generator
