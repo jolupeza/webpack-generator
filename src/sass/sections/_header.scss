@@ -1,0 +1,8 @@
+.Header {
+  background: transparent url('./../images/bg-header-mobile.png') 0 0 no-repeat;
+  background-size: cover;
+  padding: 6rem 0;
+  &__logo {
+    text-align: center;
+  }
+}
