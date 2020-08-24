@@ -8,11 +8,11 @@ const config = {
     filename: '[name].[hash].bundle.js',
     path: path.resolve(__dirname, '../', 'dist')
   },
-  optimization: {
-    splitChunks: {
-      chunks: 'all'
-    }
-  },
+  // optimization: {
+  //   splitChunks: {
+  //     chunks: 'all'
+  //   }
+  // },
   module: {
     rules: [
       {

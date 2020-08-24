@@ -1,5 +1,6 @@
 {
   "name": "webpack-generator",
+  "sideEffects": false,
   "version": "1.0.0",
   "description": "Generator webpack configuration",
   "main": "index.js",
