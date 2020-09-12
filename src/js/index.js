@@ -1,5 +1,5 @@
 import './../sass/main.scss'
 
-if (module.hot) {
+/* if (module.hot) {
   module.hot.accept()
-}
+} */
